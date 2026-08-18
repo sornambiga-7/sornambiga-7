@@ -1,257 +1,130 @@
-<h1 align="center">Hi, I'm Sornambiga</h1>
-
-<h3 align="center">
-IT Undergraduate | Java Developer | Full Stack & Cloud Enthusiast
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sornambiga;IT+Undergraduate;Java+Developer;Full+Stack+%26+Cloud+Enthusiast;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=750&lines=Java+Developer;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Real-World+Projects;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=sornambiga-7&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/sornambiga-7">
-    <img src="https://komarev.com/ghpvc/?username=sornambiga-7&label=Profile%20Views&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
----
-
-## About Me
-
-I'm an IT undergraduate who enjoys turning ideas into practical projects and continuously improving my development skills.
-
-- Currently focusing on **Java**
-- Learning **Full Stack Development**
-- Exploring **AWS, Cloud & DevOps**
-- Practicing **Data Structures & Problem Solving**
-- Building projects based on real-world problems
-- Interested in creating useful and user-friendly applications
-- Always looking for opportunities to learn, build and grow
-
-```text
-Learn → Build → Debug → Improve → Repeat
-```
-
-
----
-
-
-## Tech Stack
-
-### Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
-
-### Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
-</p>
-
-### Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github" />
+  <a href="#about">About</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#profiles">Profiles</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-## Featured Projects
-
-### Tamil Technical Lexicon
-
-A Tamil NLP project focused on making technical vocabulary easier to understand and use in real-world contexts.
-
-The project aims to bridge the gap between complex technical terminology and accessible Tamil explanations.
-
-**Focus:**
-
-`Tamil NLP` `Technical Vocabulary` `Education` `Tamil Web Technologies`
+## 🚀 About Me
+I'm **Sornambiga**, an **IT Undergraduate** passionate about **Java Development, Full Stack Engineering, Cloud & DevOps**.  
+I focus on building **real-world projects** that combine technical depth with practical impact.
 
 ---
 
-### Food Ingredient Intelligence
-
-A real-world project designed to help consumers better understand the ingredients present in packaged food products.
-
-The system is intended to analyze ingredient lists and provide useful information about ingredients, food quality, potential concerns, alternatives and more.
-
-**Focus:**
-
-`Food Awareness` `Ingredient Analysis` `Web Development` `Consumer Awareness`
+## 🛠️ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nextjs,vite,aws,docker,kubernetes,linux,git,github" />
+</p>
 
 ---
 
-### LeadPulse AI
+## 📂 Projects
+### 1. Tamil Technical Lexicon
+*Tamil NLP project simplifying technical vocabulary for education and Tamil web technologies.*
 
-An AI-powered lead scoring agent that analyzes lead information such as:
+### 2. Food Ingredient Intelligence
+*Analyzes packaged food ingredients to provide awareness, alternatives, and health insights.*
 
-- Company fit
-- Role
-- Budget
-- Product interest
-- Engagement
+### 3. LeadPulse AI
+*AI-powered lead scoring agent classifying leads as HOT, WARM, or COLD.*
 
-The agent assigns a score from **0–100** and classifies leads into:
+### 4. Procrastination Detector
+*Web app to identify attention leaks and improve productivity.*
 
-```text
-HOT
-WARM
-COLD
-```
-**Focus:**
+### 5. Todo List
+*Frontend CRUD task manager built with JavaScript, HTML, CSS.*
 
-`AI Agents` `Lead Scoring` `Automation` `Business Intelligence`
-
-### Procrastination Detector
-
-A productivity-focused web application designed to identify attention leaks and help users understand how their time is being spent.
-
-The project focuses on creating awareness about distracting activities and encouraging better productivity habits.
-
-**Focus:**
-
-`Productivity` `Web Development` `AI-assisted Development`
-
-
-### Todo List
-
-A task-management application created to practice frontend development, application logic and user interaction.
-
-**Focus:**
-
-`JavaScript` `HTML` `CSS` `CRUD`
-
-### Calculator
-
-A simple calculator application built to strengthen programming fundamentals and frontend interaction.
-
-**Focus:**
-
-`JavaScript` `HTML` `CSS`
+### 6. Calculator
+*Simple calculator strengthening programming fundamentals.*
 
 ---
 
-## GitHub Statistics
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=sornambiga-7&show_icons=true&hide_border=true&rank_icon=github" alt="Sornambiga's GitHub Stats" />
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sornambiga-7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sornambiga-7&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sornambiga-7&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sornambiga-7&layout=compact&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github.com/sornambiga-7/sornambiga-7/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
-</p> <p align="center"> <img src="https://streak-stats.demolab.com?user=sornambiga-7&hide_border=true" alt="GitHub Streak" /> </p>
-
----
-
-
-## Coding Profiles
-<p align="center"> <a href="https://leetcode.com/u/sornambiga/"> <img src="https://img.shields.io/badge/LeetCode-sornambiga-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> <a href="http://www.skillrack.com/profile/493824/8c2fdd280f01a3bec6c5e3231e8660e7c5c792ce"> <img src="https://img.shields.io/badge/SkillRack-Profile-blue?style=for-the-badge" alt="SkillRack" /> </a> </p>
-
----
-
-## What I'm Currently Learning
-### Java
-
-```text
-Core Java
-    ↓
-Object-Oriented Programming
-    ↓
-Collections
-    ↓
-Data Structures
-    ↓
-Algorithms
-    ↓
-Problem Solving
-```
-### Full Stack Development
-```text
-HTML
- ↓
-CSS
- ↓
-JavaScript
- ↓
-React
- ↓
-Backend Development
- ↓
-Database
-```
-
-### Cloud & DevOps
-```text
-AWS
- ↓
-Linux
- ↓
-Git & GitHub
- ↓
-Docker
- ↓
-Kubernetes
- ↓
-DevOps Practices
-```
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sornambiga-7&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## Achievements & Experience
-- AWS Certified Cloud Practitioner
-- DevOps Lead @ SJIT
-- GSSoC Contributor
-- GDG Cloud Core Member
-- KodeKloud DevOps Learning Journey
-- Participated in hackathons and technical workshops
-- Built multiple practical development projects
-- Exploring cloud, DevOps and modern development technologies
-
----
-  
-## My Developer Journey
-```text
-          START
-            │
-            ▼
-       Learn New Skill
-            │
-            ▼
-      Build a Project
-            │
-            ▼
-      Face a Problem
-            │
-            ▼
-       Debug & Learn
-            │
-            ▼
-          Improve
-            │
-            ▼
-      Build Something
-           Better
-            │
-            └──────────────► REPEAT
-```
-
-I believe that consistent learning and building real projects are the best ways to grow as a developer.
+## 🌐 Profiles
+<p align="center">
+  <a href="https://www.linkedin.com/in/sornambiga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/sornambiga/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="http://www.skillrack.com/profile/493824/8c2fdd280f01a3bec6c5e3231e8660e7c5c792ce"><img src="https://img.shields.io/badge/SkillRack-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+</p>
 
 ---
 
-## Currently Building
-```text
-Food Ingredient Intelligence
-        +
-Tamil Technical Lexicon
-        +
-Java & Full Stack Skills
-        +
-Cloud & DevOps Knowledge
-```
+## 📚 Currently Learning
+**Java Path**  
+Java → Core Java → OOP → Collections → Data Structures → Algorithms → Problem Solving  
+
+**Full Stack Path**  
+HTML → CSS → JavaScript → React → Backend → Database  
+
+**Cloud & DevOps Path**  
+AWS → Linux → Git & GitHub → Docker → Kubernetes → DevOps  
+
 ---
 
-## Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/sornambiga"> <img src="https://img.shields.io/badge/LinkedIn-Sornambiga-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:sornambiga1617@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/sornambiga-7"> <img src="https://img.shields.io/badge/GitHub-sornambiga--7-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://leetcode.com/u/sornambiga/"> <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> </p>
-<p align="center"> <b>Building today. Learning every day. Growing continuously.</b> </p> <p align="center"> <i>Thanks for visiting my profile.</i> </p> <p align="center"> ⭐ If you find my projects interesting, feel free to explore my repositories! </p> 
+## 🏆 Achievements & Experience
+- AWS Certified Cloud Practitioner  
+- DevOps Lead @ SJIT  
+- GSSoC Contributor  
+- GDG Cloud Core Member  
+- KodeKloud DevOps Learning Journey  
+- Hackathon & Workshop Participation  
+- Multiple Practical Development Projects  
+
+---
+
+## 🔨 Currently Building
+- Food Ingredient Intelligence  
+- Tamil Technical Lexicon  
+- Advancing Java & Full Stack Skills  
+- Expanding Cloud & DevOps Knowledge  
+
+---
+
+## 📈 Developer Journey
+From **Java fundamentals** → **Full Stack projects** → **Cloud & DevOps** → **AI-powered applications**.  
+Always learning, building, and improving with real-world impact.
+
+---
+
+## 📬 Contact
+<p align="center">
+  <a href="mailto:sornambiga1617@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<h3 align="center">✨ Thank you for visiting my profile ✨</h3>
+
 
